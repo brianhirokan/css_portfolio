@@ -1,0 +1,212 @@
+*{
+    /* outline: 1px dotted red; */
+}
+    .container{
+        /* background-color: black; */
+        margin:0px auto;
+        width:980px;
+        min-height:1000px;
+    }
+
+    div.container div.header{
+        background-color: #f6f6f6;
+        min-height:85;
+        display:inline-block;
+        
+    }
+
+    div.header div.name{
+        background-color:#f6f6f6;
+        width: 550px;
+        height: 10px;
+        display:inline-block;
+        vertical-align: top;
+        padding:0px 0px 0px 30px;
+        margin:0px 0px 0px 0px ;
+        font-size: 28px;
+        font-weight: bold;
+        font-family:"Comic Sans MS",sans-serif;
+    }    
+
+    div.header div.master{
+        background-color: #f6f6f6;
+        width:396px;
+        display:inline-block;
+        vertical-align: top;
+        text-align: center;
+        font-size: 18px;
+        font-weight: bold;
+        padding-top: 13px;
+    }
+   
+    .body1{
+        background-image: linear-gradient(to bottom right, #200f15,#6f5963);
+        min-height: 230px;
+    }
+
+    #profilePic{
+        height: 240px;
+        width:370px;
+        border: 5px solid #c0c0c0;
+        display: inline-block;
+        vertical-align: top;
+        margin: 25px 25px 20px 30px;
+    }
+
+    div.body1 div.selfintro{
+        background-image: linear-gradient(to bottom right, #6f5963,#200f15);
+        height: 230px;
+        width: 450px;
+        display: inline-block;
+        vertical-align: top;
+    }
+
+    div.selfintro div.bar{
+        /* background-color: #898694; */
+        background-image: linear-gradient(#adadaf, #898694, #adadaf);
+        vertical-align: top;
+        padding:0px 0px 0px 15px;
+        margin: 20px 0px 0px 0px;
+        width: 490px;
+        height: 40px;        
+    }
+
+    .headBar{
+        color:#fffdfa;
+        font-weight: bold;
+        font-size: 21px;
+
+    }
+
+    div.selfintro div.description{
+        background-color: #f1ebf0;
+        vertical-align: top;
+        padding:10px 20px 20px 15px;
+        width:470px;
+        height: 183px;
+    }
+
+    .body2{
+        background-image: linear-gradient(to bottom right, #6f5963,#200f15);
+        min-height: 630px;
+        padding-top: 10px;
+    }
+
+    .block1{
+        display: inline-block;
+        background-color: pink;
+        height: 579px;
+        width: 304px;
+        vertical-align: top;
+        margin:0px 5px 0px 15px;
+    }
+    .block2{
+        display: inline-block;
+        background-color: aqua;
+        vertical-align: top;
+        height:579px;
+        width:304px;
+        margin:0px 10px 0px 10px;
+    }
+    .block3{
+        display: inline-block;
+        background-color: green;
+        vertical-align: top;
+        height:579px;
+        width:304px;
+        margin:0px 15px 0px 5px;
+    }
+    .top{
+        display: block;
+        background-color: #dfd2de;
+        height: 375px;
+    }
+
+    .bottom{
+        display: block;
+        background-color:  #dfd2de;
+        height: 230px;
+    }
+    .topic{
+        width: 289px;
+        height:33px;
+        margin:0px 0px 0px 0px;
+        padding:3px 0px 0px 15px;
+        background-image: linear-gradient(#adadaf, #898694, #adadaf);
+        color:#fffdfa;
+        font-weight: bold;
+        font-family:"Ariel",sans-serif;
+    }
+    .topImage{
+        width:304px;
+        height: 163px;
+    }
+
+    .info{
+        padding: 1px 7px 0px 7px;
+        margin-top: 5px;
+    }
+
+    .tech{
+        width: 289px;
+        height:30px;
+        margin:0px 0px 0px 0px;
+        padding:3px 0px 0px 15px;
+        background-image: linear-gradient(#adadaf, #898694, #adadaf);
+        color:#fffdfa;
+        font-weight: bold;
+        font-family:"Ariel",sans-serif;
+    }
+
+    .circle{
+        display: inline;
+        /* margin:5px 0px 0px 10px; */
+    }
+
+    .signs{
+        width: 50px;
+        /* padding: 5px 5px 5px 5px; */
+        margin:5px 0px 0px 6px;
+
+    }
+
+    .greenB{
+        margin: 0px;
+        text-align: center;
+        background-color: #407d61;
+        border-radius: 4px;
+        width: 130px;
+        color: white;
+        height: 2px;
+        margin: 10px 0px 50px 90px;
+        border: 1px  solid black;
+        padding:0px 0px 25px 0px ;
+    }
+    .button{
+        margin: 5px;
+    }
+
+    .footer{
+        background-color: #fafafa;
+        min-height: 70px;
+        
+
+    }
+    
+    .email{
+        text-align: center;
+    }
+    .link{
+        display: inline;
+        text-align: center;
+        padding-left: 320px;
+    }
+    .social{
+        width: 25px;
+        height: 20px;
+        margin: 0px 0px 0px 0px ;
+        padding: 0px 0px 0px 0px ;
+    }
+    
+
+   
